@@ -1,1 +1,1 @@
-rootProject.name = "CichlidAnnotations"
+rootProject.name = "DistributionMarker"

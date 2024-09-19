@@ -1,4 +1,4 @@
-package io.github.cichlidmc.annotations;
+package io.github.cichlidmc.distmarker;
 
 /**
  * The available distributions of Minecraft.

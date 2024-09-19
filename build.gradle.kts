@@ -3,7 +3,7 @@ plugins {
     id("maven-publish")
 }
 
-base.archivesName = "CichlidAnnotations"
+base.archivesName = "DistributionMarker"
 group = "io.github.cichlidmc"
 version = "1.0.0"
 
